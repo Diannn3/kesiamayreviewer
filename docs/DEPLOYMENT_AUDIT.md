@@ -184,8 +184,8 @@ c:\Users\Dian\Documents\Vaults\Fensalir\businesses\kesiamayreviewer/
 
 - **Branch:** `main`
 - **Initial Commit:** `chore: prepare Kesia May Reviewer for Netlify deployment`
-- **Remote:** `https://github.com/Diannn3/kesiamayreviewer.git`
-- **Commit SHA:** *(Recorded upon final commit & push)*
+- **GitHub Repository:** `https://github.com/Diannn3/kesiamayreviewer`
+- **Commit SHA:** `4eb3a28b6d298cc2b25c3a03eaa102e1ede9fd97`
 
 ---
 
