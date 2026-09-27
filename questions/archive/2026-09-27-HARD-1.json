@@ -1,0 +1,1026 @@
+{
+  "archived_on": "2026-09-28",
+  "form": "HARD-1",
+  "questions": [
+    {
+      "n": 1,
+      "competency": "1.1",
+      "answer": "C",
+      "stem": "A private investment company applies for an account through an external lawyer. The file contains a certificate of incorporation, directors, a customer-completed ownership chart, and a short business description. It expects EUR 12 million of incoming transfers from three jurisdictions in its first six months. The lawyer says the principal values privacy and asks the bank not to contact the principal unless strictly necessary. Which research plan is the most defensible before the analyst finalizes the customer risk assessment?",
+      "options": {
+        "A": "Verify the corporate registry and accept the ownership chart unless a sanctions or adverse-media alert appears, because the lawyer is a regulated professional.",
+        "B": "Request audited accounts and a legal opinion first, then treat any remaining ownership uncertainty as a monitoring issue after onboarding.",
+        "C": "Identify ultimate owners/controllers, establish commercial purpose and expected counterparties, corroborate the material facts independently, and resolve those gaps before the final risk decision.",
+        "D": "Perform broad internet and media research on the directors and shareholders first, then use any unresolved findings to decide whether additional ownership information is needed."
+      },
+      "why": "The missing facts are not merely documentary: ownership/control, purpose, expected activity, and counterparties are central to understanding the customer. A regulated intermediary can be useful but does not remove the institution's responsibility to understand the customer. Research should be targeted to the material gaps and corroborated with reliable sources before the final risk decision.",
+      "weaker": "A relies too heavily on the intermediary and makes screening the trigger for information that is required for KYC. B obtains potentially useful evidence but postpones a core ownership gap. D is overbroad research before defining the material questions.",
+      "source": "ACAMS Study Guide v1.2 — Assess/Explore; ACAMS competency 1.1; FATF R.10",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 2,
+      "competency": "1.1",
+      "answer": "D",
+      "stem": "A charity that funds health projects in several countries opens an account. Its registration is valid, and the board members are identified. Most donations will be collected online; grants will be paid to local partner organizations. A well-known accounting firm introduced the charity. The analyst can obtain only one additional information package before deciding whether the file is sufficiently complete for initial risk rating. Which package would add the most decision-useful information?",
+      "options": {
+        "A": "A letter from the accounting firm describing its onboarding work, confirmation of the charity’s registration, and the firm’s assessment that no major integrity issues were identified.",
+        "B": "The latest audited financial statements, a schedule of major donors and grants by country, and the charity’s most recent annual report describing program activity.",
+        "C": "Background checks on board members and senior management, including employment history, PEP/adverse-media research, and declarations of conflicts of interest.",
+        "D": "A map of operating jurisdictions and delivery partners, expected payment flows/counterparties, funding model, controllers, and evidence that the stated programs and disbursement structure are genuine."
+      },
+      "why": "For a charity with cross-border grants, the highest-value gap is the operating model: where funds come from, where they go, who controls disbursement, and whether expected counterparties and geographies fit the stated purpose. That information makes later screening, risk rating, and activity monitoring meaningful.",
+      "weaker": "A is useful corroboration but relies on an introducer and does not explain the charity’s operating/funds-flow model. B gives strong financial context but can still leave control, partner and expected-flow gaps. C addresses governance/integrity but not how funds are raised and deployed. D most directly closes the information needed to understand the customer’s purpose, counterparties, geography and control before rating risk.",
+      "source": "ACAMS Study Guide v1.2 — customer types, charity/NGO risk, information sufficiency; competency 1.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 3,
+      "competency": "1.1",
+      "answer": "C",
+      "stem": "A prospective corporate customer says it manufactures industrial pumps. The corporate registry confirms the company exists but describes its business as “general trading.” Its website shows only a virtual office and stock photos. A trade association directory lists the company as a distributor, while a recent regulator filing names a different principal office than the application. No single fact proves wrongdoing. What is the analyst's best next step?",
+      "options": {
+        "A": "Choose the regulator filing as authoritative, replace the customer's address in the profile, and continue because the company is legally registered.",
+        "B": "Treat the inconsistencies as adverse media and escalate the customer as high risk before asking for additional evidence.",
+        "C": "Define the material inconsistencies, independently verify actual business activity, address and ownership/control, and reconcile the conflicting customer and external information before relying on the profile.",
+        "D": "Request a broader evidence pack covering governance, licenses, principal contracts, financials and tax records so the analyst can compare the customer's operating footprint before deciding which inconsistency matters most."
+      },
+      "why": "Internal/external inconsistency is a red flag that should drive focused research. The analyst should identify what is inconsistent, use reliable sources to test those facts, and reconcile the record rather than silently choosing one source or expanding research without a defined purpose.",
+      "weaker": "A updates the record before resolving which fact is correct. B converts inconsistency into a conclusion before investigation. D is disproportionate and not risk-based.",
+      "source": "ACAMS Study Guide v1.2 — source evaluation and internal/external inconsistency; competency 1.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 4,
+      "competency": "1.2",
+      "answer": "D",
+      "stem": "During remote onboarding, a customer submits a passport that passes document-authenticity checks and matches a government database. The selfie matches the passport photo with high confidence, but the liveness check fails twice. The customer explains that the camera is old and offers a recent utility bill plus a live video call with the relationship manager. What is the most defensible verification response?",
+      "options": {
+        "A": "Complete verification because the passport and database checks are stronger than the liveness failure, then note the camera issue in the file.",
+        "B": "Reject the application because two failed liveness checks demonstrate attempted impersonation.",
+        "C": "Use the live video call and utility bill as the alternative verification path because document authenticity and facial match already passed; record the liveness failure as a device-quality exception.",
+        "D": "Treat liveness as an unresolved channel-specific issue and use an approved alternative or escalation that independently establishes the applicant is the person tied to the verified identity."
+      },
+      "why": "The document may be genuine while the presenter is not. The unresolved issue is possession/presence, so the correct response is an approved alternative control or escalation that addresses that specific risk. The answer should neither ignore the failure nor assume fraud without evidence.",
+      "weaker": "A overweights document authenticity and leaves impersonation risk unresolved. B jumps from control failure to intent. C may be one input but should not substitute for the institution's approved verification process unless policy permits it.",
+      "source": "ACAMS competency 1.2; ACAMS Study Guide v1.2 — documentary/non-documentary verification and channel risk",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 5,
+      "competency": "1.2",
+      "answer": "A",
+      "stem": "A legal person presents incorporation documents certified six months ago. A current official registry search confirms the company remains active but shows that one director and the registered address changed last month. The customer says the changes are administrative and sends an unsigned email listing the new details. Which action best completes verification of the legal person?",
+      "options": {
+        "A": "Use current reliable evidence to verify the changed legal-person details and authorized persons, reconcile them with the application, and retain the update rationale.",
+        "B": "Rely on the certified incorporation package because it was valid when issued and treat the later changes as part of periodic review.",
+        "C": "Use the customer's email for the changed details because the registry has already confirmed legal existence.",
+        "D": "Verify the new director and retain the customer's email for the address change, because the current registry has already confirmed the company's legal existence."
+      },
+      "why": "Verification is not a one-time check of existence. Material legal-person data used in the KYC profile should be current and reliable. The registry change means the file must be reconciled before the verification process is considered complete.",
+      "weaker": "B leaves known stale data. C relies on unverified self-reporting for the changed facts. D arbitrarily excludes a material discrepancy from the file.",
+      "source": "ACAMS Study Guide v1.2 — customer identification process for legal persons; competency 1.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 6,
+      "competency": "1.2",
+      "answer": "A",
+      "stem": "A new customer provides a national ID and proof of address. Both appear genuine. A non-documentary identity service confirms the same name and address but returns a date of birth differing by one digit from the ID. The customer says the service is wrong and asks the analyst to continue. Which step best reflects sound verification discipline?",
+      "options": {
+        "A": "Resolve the conflicting date of birth using a reliable independent source or approved exception process before treating identity verification as complete.",
+        "B": "Prefer the national ID unless there is evidence the document itself is unreliable; treat the conflicting non-documentary date as a secondary data-quality issue.",
+        "C": "Use the non-documentary service because two independent data points—name and address—already match.",
+        "D": "Record both dates in the profile and let transaction monitoring determine which one is correct over time."
+      },
+      "why": "A material identity inconsistency should be resolved, not averaged, ignored, or assigned to whichever source appears stronger by category alone. The analyst needs reliable evidence for the specific disputed fact.",
+      "weaker": "B and C apply absolute source hierarchies that may not be justified. D preserves ambiguity in a key identity field and pushes an onboarding verification issue into monitoring.",
+      "source": "ACAMS competency 1.2; ACAMS Study Guide v1.2 — verification and data consistency",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 7,
+      "competency": "1.3",
+      "answer": "D",
+      "stem": "A company incorporated eight years ago had no meaningful activity until it was sold to new owners three months ago. It now requests an account for “consulting and investments,” expects rapid cross-border transfers, has no employees, and leases a mailbox address. The owners provide a plausible explanation that they purchased an aged company to obtain a longer corporate history. What is the best KYC treatment?",
+      "options": {
+        "A": "Treat the company's age as evidence that the business has an established operating history and use standard due diligence if the owners are verified.",
+        "B": "Decline the company because an aged dormant entity is a shelf company and therefore unsuitable for a financial relationship.",
+        "C": "Prioritize source-of-funds evidence for the expected transfers; the historical dormancy becomes less important once current owners and incoming funds are understood.",
+        "D": "Examine the current economic purpose, reason for using the aged entity, expected flows and counterparties, and apply deeper due diligence if the shell/shelf indicators remain material."
+      },
+      "why": "Shelf/shell characteristics are high-risk indicators, not automatic proof or an automatic prohibition. The key is whether the present ownership, purpose, and expected activity are understandable and supported.",
+      "weaker": "A mistakes age for operating substance. B substitutes category-based rejection for risk-based analysis. C ignores the entity's purpose and expected activity, which are central to the risk picture.",
+      "source": "ACAMS Study Guide v1.2 — shell/shelf/front companies; competency 1.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 8,
+      "competency": "1.3",
+      "answer": "C",
+      "stem": "A multinational customer routes royalty payments through an offshore subsidiary in a low-tax jurisdiction. It provides a tax opinion stating that the structure is lawful. The payments are consistent with the group's contracts, but the operating subsidiary cannot explain how the royalty was priced, and the offshore entity has no staff beyond a corporate-service provider. Which KYC conclusion is most defensible at this stage?",
+      "options": {
+        "A": "The tax opinion resolves the KYC concern; lawful tax avoidance should not affect the customer profile or expected activity.",
+        "B": "The offshore structure and lack of staff establish tax evasion, so the case should be reported as suspicious without further inquiry.",
+        "C": "Treat the structure as potentially lawful, but still establish its commercial rationale, ownership/control, pricing logic and actual flows; unresolved opacity can justify further due diligence.",
+        "D": "Because the payments match written contracts, the analyst should classify the arrangement as low risk even if the offshore entity lacks operating substance."
+      },
+      "why": "Legal tax planning and tax evasion are not the same. A legal opinion is relevant evidence, but it does not replace KYC analysis of economic rationale, ownership, and behavior. The correct response preserves that distinction and investigates material opacity.",
+      "weaker": "A overstates what the legal opinion proves. B converts risk indicators into a criminal conclusion. D treats contractual consistency as sufficient despite unresolved economic-substance questions.",
+      "source": "ACAMS Study Guide v1.2 — tax avoidance vs tax evasion and jurisdiction risk; competency 1.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 9,
+      "competency": "1.3",
+      "answer": "B",
+      "stem": "A newly formed trading company says it will import machine parts from Country X and resell them domestically. Its first proposed transactions involve payments from unrelated companies in Country Y, invoices issued by a third party in Country Z, and goods shipped directly from Country X to a fourth country. The amounts are commercially plausible. Which information is most important before the analyst can judge whether the relationship's stated purpose is credible?",
+      "options": {
+        "A": "Whether the directors have prior experience in international trade and whether the company has a professional website.",
+        "B": "Establish the commercial roles of payer, invoicing party, buyer and shipping destination and how the payment/goods flows fit the customer's stated business model.",
+        "C": "The average market price of machine parts over the last five years, even if the customer's invoiced prices fall within the current range.",
+        "D": "Whether the company can provide a letter from its freight forwarder confirming that trade documentation is customary."
+      },
+      "why": "The scenario is difficult because each individual fact can occur in legitimate trade. The material question is whether the parties and flows have a coherent economic rationale that matches the stated business. Understanding that relationship is necessary before risk can be rated.",
+      "weaker": "A is relevant background but does not explain the specific flows. C can assist with trade-price analysis but is secondary when the role of the parties is unclear. D provides process comfort without resolving who is actually paying, invoicing, buying, and receiving.",
+      "source": "ACAMS Study Guide v1.2 — purpose/intended nature and trade-based financial-crime risk; competency 1.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 10,
+      "competency": "1.4",
+      "answer": "D",
+      "stem": "An institution's policy requires identification of any natural person with at least 25% ultimate ownership and anyone who exercises control through other means. Operating Co. is owned 80% by HoldCo and 20% by unrelated small investors. HoldCo is owned 40% by Lina, 35% by Omar Holdings (100% owned by Omar), and 25% by dispersed investors. A shareholder agreement gives Karim, who owns no shares, the right to appoint a majority of Operating Co.'s board. Which identification is most consistent with the policy?",
+      "options": {
+        "A": "Identify Lina because her 32% indirect interest exceeds the policy threshold; treat Omar as below threshold after layering and Karim as a connected party.",
+        "B": "Identify Lina and Omar because both exceed the indirect ownership threshold; treat Karim as a connected party unless he also has an economic interest.",
+        "C": "Identify Karim because majority board-appointment rights are the strongest evidence of control; ownership-based identification can be limited to direct shareholders.",
+        "D": "Lina, Omar, and Karim: Lina and Omar each exceed 25% indirect ownership of Operating Co., and Karim may qualify through control by other means."
+      },
+      "why": "Indirect ownership must be traced through HoldCo: Lina's effective interest is 32% and Omar's is 28%. The policy also requires analysis of control through other means, so Karim's board-appointment right is independently relevant.",
+      "weaker": "A misses Omar's indirect ownership and Karim's control. B ignores control through other means. C ignores natural persons who meet the ownership test.",
+      "source": "ACAMS Study Guide v1.2 — beneficial ownership calculations/ownership vs control; FATF R.24; competency 1.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 11,
+      "competency": "1.4",
+      "answer": "B",
+      "stem": "A trust is the sole shareholder of a customer company. The trustee is a regulated trust company. The settlor is deceased, the beneficiaries are a discretionary class of descendants, an independent protector can remove and replace the trustee, and an investment adviser has authority to direct portfolio investments but not distributions. Which approach best identifies relevant parties for KYC?",
+      "options": {
+        "A": "Identify the regulated trustee and the protector; record the discretionary beneficiary class in the trust profile rather than treating class members as relevant BO parties until distributions occur.",
+        "B": "Identify the trust parties required by the applicable framework, including persons with ultimate effective control, and assess the protector and other powers rather than relying on legal title alone.",
+        "C": "Identify the trustee and any named or vested beneficiaries; treat discretionary beneficiary classes as contingent interests unless a member becomes entitled to a distribution.",
+        "D": "Identify the investment adviser as the sole controller because the adviser can direct investments, even though it cannot appoint the trustee or direct distributions."
+      },
+      "why": "Legal arrangements require analysis of roles and control, not a single-shareholder shortcut. Depending on the applicable framework, relevant parties may include trustee, protector, beneficiaries/classes, settlor information, and anyone exercising ultimate effective control.",
+      "weaker": "A stops at legal title. C is too narrow for a discretionary trust. D overstates one delegated investment function without considering the broader control structure.",
+      "source": "ACAMS Study Guide v1.2 — beneficial ownership of legal arrangements; FATF R.25; competency 1.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 12,
+      "competency": "1.4",
+      "answer": "A",
+      "stem": "A private company is formally owned 90% by a nominee shareholder and 10% by its founder. Corporate records are consistent with that structure. However, the nominee agreement states that the nominee acts solely on the founder's instructions, the founder funded the share purchase, and the founder approves all major transactions. A law firm that arranged the nominee structure says the register should be treated as conclusive. What is the strongest KYC conclusion?",
+      "options": {
+        "A": "The analyst should look through the nominee arrangement and assess the founder as the person exercising ultimate economic interest/control, while documenting the nominee relationship and any other relevant parties.",
+        "B": "The nominee should be treated as the beneficial owner because registered legal ownership is the most objective evidence available.",
+        "C": "Treat the founder as a connected/control party rather than the beneficial owner because registered ownership remains with the nominee unless the nominee title is legally set aside.",
+        "D": "The law firm's involvement is sufficient to treat the structure as verified unless separate adverse media is identified."
+      },
+      "why": "Beneficial ownership is not limited to formal title. The facts indicate that the founder directs the nominee and provides the economic interest and control, so the KYC analysis should look through the legal owner.",
+      "weaker": "B confuses legal ownership with beneficial ownership. C ignores control and economic interest. D treats a gatekeeper's involvement as a substitute for the institution's own analysis.",
+      "source": "ACAMS Study Guide v1.2 — nominees, gatekeepers, ownership vs control; competency 1.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 13,
+      "competency": "1.5",
+      "answer": "D",
+      "stem": "A long-standing customer was onboarded as a salaried engineer with modest domestic activity. She is elected mayor of a large city and, within two months, begins receiving speaking fees and consulting payments from companies that do business with the municipality. Her identity information is unchanged and the transactions are not individually unusual in amount. What should the KYC analyst do?",
+      "options": {
+        "A": "Keep the existing risk rating until the next periodic review because no identity field or account product changed.",
+        "B": "Escalate the new consulting payments through suspicious-activity review first, because the timing after election is more urgent than a broader customer-profile refresh.",
+        "C": "Update the occupation field to “mayor,” but leave source-of-wealth and expected-activity assumptions unchanged unless transaction monitoring generates an alert.",
+        "D": "Trigger an event-driven review of PEP status, expected activity, sources of funds/wealth as relevant, connected-party risk, and the appropriateness of enhanced controls or approvals."
+      },
+      "why": "The customer's public function materially changes the risk context even if identity and product are unchanged. New income from entities connected to the public role also changes expected activity and corruption-risk analysis.",
+      "weaker": "A leaves the profile stale. B jumps from risk to conclusion. C records only the visible status change without reassessing the assumptions and controls that depend on it.",
+      "source": "ACAMS Study Guide v1.2 — PEP risk and ongoing due diligence; competencies 1.5/5.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 14,
+      "competency": "1.5",
+      "answer": "B",
+      "stem": "A domestic manufacturer classified as medium risk wins a government-backed export contract to a new region and requests trade-finance and foreign-exchange products. Forecast annual turnover will triple. Ownership is unchanged, and the relationship manager considers the change positive. Which KYC response is most appropriate before the new products are activated?",
+      "options": {
+        "A": "Retain the existing profile because the business expansion has a legitimate explanation and ownership did not change.",
+        "B": "Refresh the profile to understand the contract, new counterparties/jurisdictions, expected cash flows and trade-finance activity, then reassess product/geographic risk and controls.",
+        "C": "Update forecast turnover and expected trade flows under the existing risk rating, then use early transaction monitoring to determine whether the new product/geography warrants reclassification.",
+        "D": "Wait for several months of transactions so that the risk assessment can use observed rather than forecast activity."
+      },
+      "why": "A legitimate commercial change can still materially change the KYC profile. New jurisdictions, products, transaction types, and volumes affect the expected-activity baseline and risk assessment before the activity begins.",
+      "weaker": "A and C understate the scope of the change. D delays information that is needed to establish the correct monitoring baseline for the new activity.",
+      "source": "ACAMS Study Guide v1.2 — ongoing due diligence/export expansion; competencies 1.5/3.1/5.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 15,
+      "competency": "1.5",
+      "answer": "C",
+      "stem": "A periodic review finds no changes to a corporate customer's ownership, directors, address or stated business. However, the account has generated several transaction-monitoring alerts for rapid movement of funds through new counterparties, and logins now frequently originate from a country unrelated to the business. Each alert was previously closed with a short note stating “activity within limits.” What is the strongest KYC response?",
+      "options": {
+        "A": "Complete the legal-entity refresh as unchanged, but refer the repeated monitoring alerts to the transaction-monitoring team for a separate quality review because KYC data itself is current.",
+        "B": "Rely on the prior alert closures unless new documentary evidence contradicts them, while updating the profile for the new login geography because completed monitoring decisions should normally stand.",
+        "C": "Review the underlying activity and the quality of the prior explanations, determine whether expected activity and channel/geographic risk have changed, and refresh or escalate the customer profile based on that evidence.",
+        "D": "Increase the customer’s channel and geographic risk rating because of the new login country and repeated alerts, while leaving expected activity unchanged until a monitoring investigation establishes a transaction-level concern."
+      },
+      "why": "KYC is dynamic and should incorporate behavior, not just static customer data. The combination of new counterparties, rapid movement, and unrelated login geography can change the risk picture even if corporate records are unchanged.",
+      "weaker": "A separates controls too rigidly when behavior may make the KYC profile stale. B gives too much deference to weak prior closures. D updates risk before establishing whether the activity represents a genuine profile change and leaves the core expected-activity question unresolved.",
+      "source": "ACAMS Study Guide v1.2 — transaction monitoring and ongoing reviews; competencies 1.5/4.4/5.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 16,
+      "competency": "2.1",
+      "answer": "B",
+      "stem": "A corporate customer was screened at onboarding with no sanctions matches. Six months later, a sanctions list update names a natural person who owns 52% of the customer. The customer entity itself is not listed, and the jurisdiction's legal treatment of owned entities depends on the applicable sanctions regime. What should the analyst do first?",
+      "options": {
+        "A": "Continue normal activity while the sanctions team verifies the owner because the entity itself is not listed and onboarding screening was clean; restrict activity if the applicable regime clearly captures owned entities.",
+        "B": "Escalate the ownership exposure promptly, confirm the applicable sanctions ownership/control rules and restrictions, and avoid actions that could breach them while the case is resolved.",
+        "C": "Reclassify the customer as a PEP because a listed owner creates equivalent corruption risk.",
+        "D": "Wait until the next periodic KYC review so that ownership and sanctions can be assessed together."
+      },
+      "why": "Sanctions exposure can arise through ownership/control even when the customer entity is not itself named, depending on the regime. The correct response is prompt specialist analysis under the applicable rules, not a universal assumption about the legal result.",
+      "weaker": "A ignores a material new sanctions fact. C confuses sanctions with PEP risk. D delays an issue that may carry immediate legal restrictions.",
+      "source": "ACAMS public CKYCA/KYC Intermediate — sanctions screening; competency 2.1; applicable sanctions regime",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 17,
+      "competency": "2.1",
+      "answer": "D",
+      "stem": "A new customer named “Mohamed Al Rahman” triggers a sanctions alert for “Muhammad al-Rahman.” The year of birth matches, nationality is the same, and the listed person's city of birth is unknown. The customer's passport number does not match an older passport number on the list, but the list entry notes several aliases and the listed person may have renewed documents. What is the strongest next step?",
+      "options": {
+        "A": "Clear the alert because the passport numbers differ and that unique identifier should outweigh shared year, nationality and spelling variants; document transliteration as the reason for residual similarity.",
+        "B": "Confirm the match because transliteration, year of birth and nationality align, making the different passport number immaterial.",
+        "C": "Ask the customer whether they are the sanctioned person and use the response as the deciding evidence.",
+        "D": "Keep the alert unresolved and compare additional strong identifiers plus alias/history information through the approved sanctions process before clearing or confirming the match."
+      },
+      "why": "Transliteration can create spelling variants, and document numbers can change. The evidence is mixed rather than exculpatory or conclusive. The correct approach is to seek stronger discriminating identifiers and use the defined escalation process.",
+      "weaker": "A treats one conflicting identifier as dispositive without context. B treats partial similarity as confirmation. C relies on self-attestation for a high-stakes match decision.",
+      "source": "ACAMS Study Guide v1.2 — false positives, transliteration and name screening; competency 2.1/2.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 18,
+      "competency": "2.1",
+      "answer": "B",
+      "stem": "A payment-processing customer uses hundreds of merchants. The institution screens the customer and its known UBOs at onboarding. During a review, the analyst learns that one merchant receiving a material share of the customer's settlement flows is owned by a person recently added to a sanctions list. The customer's contract allows it to onboard merchants without notifying the institution. Which KYC concern is most immediate?",
+      "options": {
+        "A": "Whether the customer should be treated as a correspondent bank because it processes payments for third parties.",
+        "B": "Whether the institution's screening scope and understanding of relevant connected parties/payment beneficiaries are sufficient for the customer's actual business model, requiring sanctions escalation and possible control changes.",
+        "C": "Whether the customer's UBO should be replaced in the KYC record with the listed merchant owner because the merchant receives substantial funds.",
+        "D": "Increase the customer's risk rating because its merchant population is broader and less transparent than first understood, then let the sanctions team address the listed merchant separately."
+      },
+      "why": "The new fact exposes a gap between the customer's actual third-party ecosystem and the institution's screening/control assumptions. The immediate issue is how sanctions exposure through relevant parties and payment flows is identified and escalated.",
+      "weaker": "A may be relevant to product classification but does not address the immediate sanctions gap. C confuses customer ownership with a connected merchant. D converts business-model complexity into an automatic risk outcome without assessing controls.",
+      "source": "ACAMS Study Guide v1.2 — sanctions/payment screening and connected parties; competency 2.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 19,
+      "competency": "2.2",
+      "answer": "C",
+      "stem": "A high-risk customer operates in a country where major media outlets are closely aligned with the government. Two newspapers accuse the customer of corruption but cite no documents. An independent regulator in another jurisdiction has published a final enforcement order against a subsidiary for books-and-records failures, while the customer's home-country corporate registry shows no adverse entry. How should the analyst weigh these sources?",
+      "options": {
+        "A": "Treat the two newspaper reports as corroborated adverse media because separate editorial teams published similar allegations and the foreign regulator action independently supports broader integrity concerns.",
+        "B": "Discount the home-country media substantially because of its political alignment and treat the clean corporate registry as meaningful counter-evidence, while using the foreign regulator action as the main adverse source.",
+        "C": "Give strong weight to the regulator's documented action, treat the media as leads needing corroboration, and recognize that registry silence does not disprove misconduct.",
+        "D": "Average the three source types and classify the adverse-media result as medium confidence because the evidence is mixed."
+      },
+      "why": "Source reliability is not a vote count. A documented action by a competent authority is stronger evidence for the fact it establishes. Media in a constrained environment may still be useful but needs careful corroboration. A registry often confirms legal facts rather than all misconduct.",
+      "weaker": "A mistakes repeated reporting for independent evidence. B gives the registry a scope it does not have. D turns qualitative evidence assessment into an unsupported numerical compromise.",
+      "source": "ACAMS Study Guide v1.2 — evaluating sources and media bias; competency 2.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 20,
+      "competency": "2.2",
+      "answer": "A",
+      "stem": "Four reputable news sites report that a customer's chief executive paid bribes. Each article cites the same anonymous source and appears to have been republished from one original story. A fifth source is an old court filing involving the executive in an unrelated contract dispute. No regulator action is found. What is the strongest research conclusion?",
+      "options": {
+        "A": "Trace the four reports to their common origin, seek genuinely independent or primary corroboration, and assess the unrelated court filing separately for relevance.",
+        "B": "Treat the bribery allegation as corroborated because four reputable publishers independently chose to carry it.",
+        "C": "Discard the bribery allegation because the original source is anonymous and therefore cannot contribute to KYC analysis.",
+        "D": "Use the old court filing as an additional integrity indicator alongside the repeated bribery reports, while noting that the filing concerns a different dispute and therefore carries lower weight."
+      },
+      "why": "Republishing can create the appearance of corroboration without independent evidence. The analyst should identify source lineage, look for primary or independent confirmation, and keep unrelated legal matters separate unless facts connect them.",
+      "weaker": "B confuses publication count with independent corroboration. C discards a potentially useful lead solely due to source anonymity. D conflates unrelated facts.",
+      "source": "ACAMS Study Guide v1.2 — adverse media, source quality and focused research; competency 2.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 21,
+      "competency": "2.2",
+      "answer": "B",
+      "stem": "A prospective customer has two negative search results. One is a 12-year-old conviction for driving while intoxicated, fully disclosed by the customer. The other is a recent regulator notice that the customer was barred from a securities role for falsifying client records. Both identities are confirmed. Which treatment best reflects relevance-based research?",
+      "options": {
+        "A": "Document both confirmed events as integrity concerns, weighting the securities bar somewhat more heavily because it is newer and directly related to financial conduct, but preserving both in the risk narrative.",
+        "B": "Document both, but give substantially greater KYC weight to the recent financial-integrity bar; assess the older offense according to relevance, recency and the institution’s retention/policy requirements rather than negativity alone.",
+        "C": "Treat the securities bar as the material adverse finding and exclude the driving conviction from the KYC profile because it is old and unrelated to financial crime.",
+        "D": "Treat the regulator bar as the primary concern and route it through sanctions-style screening escalation because a formal prohibition by a regulator can restrict the customer’s financial activity."
+      },
+      "why": "The issue is not whether a result is negative, but whether it is reliable, relevant, serious, and connected to financial-crime/customer risk. The securities bar is much more directly relevant to integrity and financial activity.",
+      "weaker": "A moves in the right direction but still risks over-weighting an old unrelated offense instead of applying relevance-based analysis. C turns relevance into automatic deletion, which may conflict with policy and recordkeeping. D confuses a regulatory bar with sanctions status.",
+      "source": "ACAMS Study Guide v1.2 — relevance of criminal/regulatory records; competency 2.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 22,
+      "competency": "2.3",
+      "answer": "C",
+      "stem": "A screening alert matches a customer's full name and occupation to a PEP database entry. The customer's date of birth is two years different, but both the customer and the listed person worked at the same ministry in the same country. The customer denies holding a prominent role and says the database is outdated. Which information would most efficiently discriminate between a true and false match?",
+      "options": {
+        "A": "Run targeted searches combining the customer's name, ministry, job title and dates, then compare the resulting public references to the PEP entry before seeking additional documentary identifiers.",
+        "B": "A copy of the customer's latest bank statement to confirm the address currently on file.",
+        "C": "Obtain authoritative employment/role history plus stronger personal identifiers that determine whether the customer actually held the public function attributed to the PEP record.",
+        "D": "A revised customer declaration stating that the customer is not a PEP, signed and dated after the alert."
+      },
+      "why": "The key ambiguity is identity plus role. The analyst needs evidence that separates two potentially similar people and determines whether the customer actually held the prominent function. Strong identifiers and authoritative role history do that better than search volume or self-attestation.",
+      "weaker": "A can add noise without resolving identity. B may help but does not address the public-function match. D is the customer's assertion, not independent resolution.",
+      "source": "ACAMS Study Guide v1.2 — false positives and PEP research; competency 2.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 23,
+      "competency": "2.3",
+      "answer": "D",
+      "stem": "Transaction monitoring identifies five companies with overlapping beneficial owners, the same business address, similar incorporation dates, unusually large cash deposits, and transfers among themselves before funds move to a sixth entity. The individual transactions have plausible descriptions, and no sanctions hit is present. At this stage, which action is most defensible for a KYC analyst?",
+      "options": {
+        "A": "Recommend an external suspicious-activity report now because the linked-company pattern creates sufficient concern, then let the reporting function conduct any further investigation after filing.",
+        "B": "Recommend exiting the linked relationships now under high-risk appetite because common ownership, concentrated cash activity and intercompany transfers create a network risk that cannot be resolved at transaction level.",
+        "C": "Clear the alerts because each transfer has a plausible description and there is no sanctions exposure.",
+        "D": "Perform EDD on the linked entities, ownership, business purposes, cash capacity and transfer rationale, then escalate the findings through the institution's suspicious-activity process as warranted."
+      },
+      "why": "The combined facts are meaningful red flags, but the KYC role is to investigate and assemble a defensible picture before recommending the next step. The pattern is too significant to clear and not yet fully understood enough for an automatic outcome.",
+      "weaker": "A may ultimately be appropriate through the designated reporting process, but the scenario calls for further investigation first. B is premature de-risking. C ignores the combined pattern.",
+      "source": "ACAMS Study Guide v1.2 — Smart Shirt Cleaners case; competencies 2.3/4.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 24,
+      "competency": "2.3",
+      "answer": "C",
+      "stem": "An automated adverse-media tool assigns a “high confidence” match to a customer based on a foreign-language article translated automatically. The translated headline says the person was “charged with fraud,” but the original-language article appears to distinguish between the customer and another person with a similar name. The tool also notes an exact employer match. What is the strongest next step?",
+      "options": {
+        "A": "Accept the tool's high-confidence score because an exact employer match is a stronger signal than ambiguity in machine translation.",
+        "B": "Clear the result because the translation appears unreliable and automated adverse-media alerts commonly produce false positives.",
+        "C": "Manually validate the identity and original-language context using reliable sources or qualified help, document the tool's limitations, then determine materiality.",
+        "D": "Escalate the customer as high risk immediately and treat the unresolved translation issue as a separate documentation problem."
+      },
+      "why": "Automated tools support but do not replace human analysis. Translation can alter context, and an employer match can increase identity confidence without proving the alleged conduct. The correct response resolves both identity and meaning before risk treatment.",
+      "weaker": "A defers judgment to the tool. B clears before resolving a potentially material match. D changes the risk outcome before the underlying allegation has been validated.",
+      "source": "ACAMS Study Guide v1.2 — false positives, automated screening and translation risk; competency 2.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 25,
+      "competency": "3.1",
+      "answer": "B",
+      "stem": "A private-banking applicant is a nonresident PEP, will be onboarded remotely, wants a multi-currency investment account with rapid liquidity, and derives wealth from a company operating in a higher-risk jurisdiction. The institution has strong remote identity controls and an experienced PEP team. Which statement best describes the risk assessment?",
+      "options": {
+        "A": "The strong remote controls largely neutralize the customer and geographic risks, so the overall rating should focus on residual channel risk.",
+        "B": "Assess customer/PEP, product, geography and channel risks separately, then consider control effectiveness when deciding overall/residual risk and required escalation.",
+        "C": "Private banking should be treated as the dominant factor because product risk subsumes customer, geography and channel risk in wealth management.",
+        "D": "The customer should be classified according to the highest single inherent risk factor because combining factors can understate risk."
+      },
+      "why": "Risk-based assessment is multi-dimensional. Controls can mitigate particular risks, but they do not erase the underlying customer, product, geographic, or channel facts. The final decision should reflect both inherent factors and effective mitigants.",
+      "weaker": "A overgeneralizes one control. C collapses distinct risk dimensions. D replaces composite assessment with a single-factor rule.",
+      "source": "ACAMS Study Guide v1.2 — customer/jurisdiction/product/channel risk and control effectiveness; competency 3.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 26,
+      "competency": "3.1",
+      "answer": "A",
+      "stem": "A medium-risk corporate customer adds a product that allows high-value international transfers. The customer operates in low-risk jurisdictions, ownership is transparent, expected counterparties are known, and the institution applies strong payment-screening and transaction-monitoring controls. What is the best risk-based conclusion?",
+      "options": {
+        "A": "Treat the new product as higher inherent risk, then consider the customer context and control effectiveness when deciding whether residual risk remains within appetite.",
+        "B": "Move the customer to high risk because the international-transfer product materially increases exposure, then use the strong screening and monitoring controls to determine whether enhanced review can be reduced later.",
+        "C": "The existing medium rating should remain unchanged because customer and geographic factors did not change.",
+        "D": "The product can be ignored for KYC purposes because transaction monitoring and sanctions screening manage the relevant risk after onboarding."
+      },
+      "why": "The distinction between inherent risk and controlled/residual risk is central. The product changes the risk picture, but the final rating and due-diligence response should consider the customer's context and the effectiveness of relevant controls.",
+      "weaker": "B uses a single-factor outcome. C treats risk as static. D assigns a KYC risk factor entirely to downstream controls.",
+      "source": "ACAMS Study Guide v1.2 — risk-based approach/control effectiveness; competency 3.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 27,
+      "competency": "3.1",
+      "answer": "A",
+      "stem": "A bank is considering a correspondent relationship with a respondent bank in a moderate-risk jurisdiction. The respondent is well regulated and has clean regulatory history, but 35% of its payment volume comes from money service businesses and smaller respondent institutions. It offers nested access to some customers. Which factor most changes the correspondent risk analysis?",
+      "options": {
+        "A": "Focus on the respondent's downstream MSB/nested exposure and assess its customer base plus KYC/monitoring controls because the correspondent does not directly know many underlying parties.",
+        "B": "The respondent's clean regulatory history, because it provides stronger evidence of low risk than the composition of its customer base.",
+        "C": "The moderate jurisdiction rating, because correspondent risk should be primarily geographic when the respondent is regulated.",
+        "D": "Treat the MSB and nested exposure as the main rating driver and move the respondent higher risk now, then test its customer-control framework during the enhanced-due-diligence stage."
+      },
+      "why": "Correspondent banking is indirect. Material MSB/nested exposure increases the importance of understanding the respondent's customer base and control framework because the correspondent lacks direct relationships with many underlying parties.",
+      "weaker": "B is relevant but not sufficient for future/control risk. C underweights business model and downstream exposure. D turns a risk factor into an automatic outcome.",
+      "source": "ACAMS Study Guide v1.2 — correspondent banking and MSB risk; competency 3.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 28,
+      "competency": "3.2",
+      "answer": "B",
+      "stem": "A trading customer imports electronics. One shipment has an invoice price 40% above recent market ranges, the bill of lading shows 1,000 units while the packing list shows 700, and payment instructions were changed at the last minute so that an unrelated company in a third country receives the funds. The customer explains that the supplier changed logistics partners. Which conclusion is strongest?",
+      "options": {
+        "A": "Prioritize the price variance as the strongest trade-finance red flag, then use the quantity mismatch and third-party payment as corroborating indicators when deciding whether EDD is necessary.",
+        "B": "The combination of price, quantity-document inconsistency and unrelated third-party payment is a trade-based financial-crime pattern requiring investigation of the goods, parties, commercial rationale and documentation.",
+        "C": "The last-minute payment change is sufficient to establish sanctions evasion even if no listed party is identified.",
+        "D": "The transaction can be accepted if the customer provides a letter from the supplier confirming the new payment instructions."
+      },
+      "why": "The difficulty lies in the combination. Each discrepancy might have a legitimate explanation, but together they implicate classic customer/transaction/document risks in trade. The analyst should investigate the economic and documentary coherence rather than fixating on one feature.",
+      "weaker": "A underweights the combined pattern. C assigns a specific offense without supporting sanctions facts. D relies on a single interested-party document and leaves other inconsistencies unresolved.",
+      "source": "ACAMS Study Guide v1.2 — trade-based financial-crime methods/red flags; competency 3.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 29,
+      "competency": "3.2",
+      "answer": "A",
+      "stem": "A consultant introduces a customer to the bank and is paid an unusually high “success fee” from the customer's account after the customer wins a public-sector contract. The consultant is a close associate of a senior public official, provides only a one-page invoice with no description of services, and asks that future fees be sent to an account in a higher-risk jurisdiction. Which risk interpretation is most appropriate?",
+      "options": {
+        "A": "The pattern raises bribery/corruption and gatekeeper/intermediary concerns that should be investigated through services evidence, relationship to the official, payment rationale and destination risk.",
+        "B": "The main concern is concentration risk because the consultant receives a large share of the customer's cash outflows.",
+        "C": "The payments should be treated as ordinary business-development expense unless the public official is directly named as a beneficiary.",
+        "D": "Treat the receiving jurisdiction and account as the primary risk driver; if the destination bank and beneficiary are satisfactorily verified, assess the political connection and commission size as secondary context."
+      },
+      "why": "The scenario contains several interacting corruption indicators: a politically connected intermediary, high unexplained commission, weak proof of services, and higher-risk payment destination. The appropriate response is deeper inquiry, not a criminal conclusion.",
+      "weaker": "B identifies a different risk type. C sets an unrealistically high proof threshold for KYC inquiry. D overweights the receiving institution and underweights the purpose and political connection.",
+      "source": "ACAMS Study Guide v1.2 — gatekeepers, PEP/public-official and bribery red flags; competency 3.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 30,
+      "competency": "3.2",
+      "answer": "A",
+      "stem": "A small-business owner uses an offshore company in a low-tax jurisdiction. Their tax adviser provides documents showing the structure is legally registered and used to hold intellectual property. Transaction monitoring then identifies repeated personal luxury expenses paid directly from the business account and transfers described as “consulting” to companies controlled by family members with no evidence of services. Which KYC interpretation is strongest?",
+      "options": {
+        "A": "The lawful offshore structure does not resolve the separate indicators of possible tax evasion or misuse of company funds; the unexplained personal and related-party payments require investigation and appropriate escalation.",
+        "B": "Because the offshore structure is legally registered, the transactions should be treated as aggressive tax avoidance rather than possible evasion unless a tax authority has made a finding.",
+        "C": "Treat the personal expenses as tax/accounting irregularities unless they change expected activity; focus the KYC inquiry on the related-party consulting payments.",
+        "D": "The entire relationship should be classified as tax evasion because the customer uses a low-tax jurisdiction and has related-party transactions."
+      },
+      "why": "Legal tax planning can coexist with suspicious activity. KYC must assess the actual account behavior and supporting evidence. Personal expenses and unexplained related-party “consulting” payments can indicate tax evasion or other misuse even if the holding structure itself is lawful.",
+      "weaker": "B overextends the legal status of the structure to later transactions. C artificially narrows the financial-crime risk. D labels the offense before the facts are established.",
+      "source": "ACAMS Study Guide v1.2 — tax avoidance vs tax evasion; competency 3.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 31,
+      "competency": "3.3",
+      "answer": "C",
+      "stem": "A newly onboarded private-banking customer places USD 8 million that is well supported by documents from the sale of a business. The same customer, who is a senior municipal official, plans monthly cash deposits of USD 9,500 described as “consulting income” from local construction companies. Which issue should drive the next KYC step most strongly?",
+      "options": {
+        "A": "The overall USD 8 million AUM, because private-banking relationships of that size are inherently the dominant risk factor.",
+        "B": "Treat the repeated cash deposits just below a common reporting threshold as the primary concern and escalate for structuring review before revisiting the customer's PEP-linked consulting relationships.",
+        "C": "The coherence and legitimacy of the recurring cash consulting income in light of the customer's public role and counterparties, even though the initial AUM source is well corroborated.",
+        "D": "The source of wealth should be reopened because any later unexplained cash means the business-sale evidence can no longer be relied upon."
+      },
+      "why": "The initial AUM is supported. The new recurring cash, political role, and construction-company counterparties create a distinct corruption/expected-activity issue. KYC should not let a well-documented wealth event obscure a separate risk stream.",
+      "weaker": "A overweights a supported asset balance. B treats a threshold as a safe harbor. D incorrectly invalidates prior corroboration instead of investigating the new funds.",
+      "source": "ACAMS Study Guide v1.2 — private banking case, AUM/PEP/source of funds; competency 3.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 32,
+      "competency": "3.3",
+      "answer": "A",
+      "stem": "An investment manager opens an omnibus account that will hold USD 150 million for underlying clients. The manager is regulated and supplies audited financials, but it will not identify the underlying investors, citing confidentiality. Its home regime requires client due diligence, though the institution has not assessed the manager's control quality. What is the strongest AUM-related KYC concern?",
+      "options": {
+        "A": "Assess beneficial ownership/source of underlying funds and whether the regulated manager's CDD controls are satisfactory before relying on it; the large AUM magnifies the exposure.",
+        "B": "Rely on the manager's regulated status and audited financials for underlying-client due diligence, but require annual confirmation of its CDD framework and exception reporting for higher-risk investors.",
+        "C": "The USD 150 million balance itself should trigger rejection because very large pooled accounts cannot be risk-rated reliably.",
+        "D": "The key issue is whether the manager is profitable enough to support the expected account balance; underlying investor information is secondary."
+      },
+      "why": "Where an intermediary or money manager stands between the institution and the underlying wealth, KYC must consider who ultimately owns the funds and whether the intermediary's own due diligence is satisfactory. Large AUM magnifies the exposure.",
+      "weaker": "B treats regulation as a substitute for control assessment. C makes asset size an automatic prohibition. D focuses on the manager's business viability rather than the provenance/ownership of client assets.",
+      "source": "ACAMS Study Guide v1.2 — source of wealth, money managers/intermediaries; competency 3.3/4.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 33,
+      "competency": "3.3",
+      "answer": "D",
+      "stem": "A family office proposes to transfer USD 40 million. The principal's declared wealth is USD 55 million, built from an inheritance ten years ago and investment returns. Probate records support the inheritance, but the family office provides only a current portfolio summary prepared by its own staff. Market data indicates the inherited assets could plausibly have grown to the stated amount. What additional evidence would most strengthen the AUM assessment?",
+      "options": {
+        "A": "A second statement from the family office confirming that the investment returns are accurate and prepared in good faith.",
+        "B": "Obtain transaction-level investment records for the years in which the portfolio grew most sharply, reconstruct the major gains, and use the resulting history to bridge the inheritance to current AUM.",
+        "C": "A general adverse-media search on the family name to determine whether the wealth has ever been questioned publicly.",
+        "D": "Independent or externally generated records that bridge the inheritance to the present portfolio—such as custodian, audited, tax, banking or investment statements—proportionate to the risk and materiality."
+      },
+      "why": "The inheritance establishes a plausible starting point, but the present AUM still needs credible linkage to the current wealth. Independent financial records provide stronger corroboration than another internal statement or exhaustive but disproportionate transaction reconstruction.",
+      "weaker": "A is self-generated evidence. B may be unnecessarily burdensome and not risk-based. C can identify other risks but does not directly corroborate asset growth.",
+      "source": "ACAMS Study Guide v1.2 — source of wealth corroboration and proportionality; competency 3.3/4.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 34,
+      "competency": "3.4",
+      "answer": "C",
+      "stem": "An automated customer-risk model rates a case “medium.” The analyst discovers that the customer is a PEP using private-banking services through a complex offshore holding company. Policy states that the combination requires senior approval and EDD, but the model does not currently capture the PEP/product interaction. What is the most defensible action?",
+      "options": {
+        "A": "Change one of the model inputs to a higher category so the system produces a high score consistent with policy.",
+        "B": "Keep the medium score because the model is the approved methodology; apply EDD informally without changing the recorded risk outcome.",
+        "C": "Use the documented override/escalation process, preserve the original model output, apply the policy-required EDD/approval, and raise the model gap through governance.",
+        "D": "Use documented analyst judgment to set the customer to high risk and apply the required EDD, then raise the model gap through the next governance review."
+      },
+      "why": "The scenario tests governance, not just the substantive risk. A defensible program preserves the model output, uses an authorized override, applies policy, documents rationale, and fixes the methodological gap rather than manipulating data or bypassing the model silently.",
+      "weaker": "A corrupts inputs. B records a risk outcome inconsistent with policy. D reaches a plausible substantive result but bypasses governance and auditability.",
+      "source": "ACAMS Study Guide v1.2 — risk-based escalation, overrides and profile documentation; competency 3.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 35,
+      "competency": "3.4",
+      "answer": "A",
+      "stem": "A specialist committee approves a high-risk customer after EDD even though the relationship sits near the upper boundary of the institution's risk appetite. The business argues that the committee's approval means the customer can be treated as ordinary going forward. What should the KYC file and control framework show?",
+      "options": {
+        "A": "Preserve the identified inherent/residual risks, the EDD evidence, committee authority and rationale, acceptance conditions or exceptions, and the enhanced monitoring/review obligations that remain after approval.",
+        "B": "Record the committee approval, final high-risk rating and monitoring conditions; the EDD workpapers can stand on their own without carrying the material risk rationale into the customer profile once approval is final.",
+        "C": "Keep the high-risk label for reporting, but operationally treat the customer as standard-risk because the committee has already accepted the residual risk and approved the controls.",
+        "D": "Replace the detailed risk narrative with the committee decision and business justification so downstream teams do not re-litigate an accepted relationship."
+      },
+      "why": "Approval does not erase the risk analysis. The file should preserve what risk was accepted, the evidence and authority supporting the decision, any exception/conditions, and the enhanced controls that make the relationship acceptable. Those facts guide monitoring, review and future escalation.",
+      "weaker": "B can leave downstream reviewers with a decision but insufficient context about what risk was actually accepted and why. C confuses approval with a lower operating risk state. D substitutes governance outcome/business rationale for the evidence and control obligations that must remain auditable.",
+      "source": "ACAMS Study Guide v1.2 — specialist committee risk acceptance and documentation; competency 3.4/5.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 36,
+      "competency": "3.4",
+      "answer": "A",
+      "stem": "A high-revenue private-banking prospect is referred by a senior relationship manager whose bonus depends heavily on AUM. The KYC analyst identifies unresolved source-of-wealth gaps and recommends more research. The business head pressures compliance to approve now and “finish the file later.” Which governance principle is most important?",
+      "options": {
+        "A": "The second line must remain independent from revenue incentives, have authority to challenge the business, and require completion/escalation of material KYC issues before acceptance according to policy.",
+        "B": "The relationship manager's seniority should carry significant weight because the first line is closest to the customer and accountable for commercial outcomes.",
+        "C": "Use a four-eyes review by another senior business employee plus a documented compliance spot-check; that preserves independent challenge while allowing the source-of-wealth file to be completed shortly after onboarding.",
+        "D": "The conflict can be managed by recording the business head's approval as an exception and asking compliance to complete source-of-wealth work after onboarding."
+      },
+      "why": "The core issue is independence of the control function. Sales incentives create a known conflict, particularly in private banking. Dual controls can reduce error/collusion but do not replace an empowered second line or required EDD.",
+      "weaker": "B subordinates compliance to sales. C confuses dual controls with independent risk oversight. D formalizes a premature acceptance rather than resolving the material gap under policy.",
+      "source": "ACAMS Study Guide v1.2 — private banking conflict of interest and independence of second line; competency 3.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 37,
+      "competency": "4.1",
+      "answer": "D",
+      "stem": "A customer says her USD 20 million net worth came from selling a technology company five years ago. Sale documents and tax records support the transaction. She now wants to fund an account with USD 4 million arriving from an offshore discretionary trust created by her late father. The trust is not mentioned in the business-sale documents. What is the best EDD approach?",
+      "options": {
+        "A": "Treat the business sale as sufficient source-of-wealth evidence for the incoming USD 4 million because the customer's overall net worth exceeds the transfer.",
+        "B": "Treat the offshore trust as the controlling wealth source for this relationship and require trust-origin evidence first; use the previously corroborated business sale only as secondary background context.",
+        "C": "Focus on source of funds for the USD 4 million transfer and retain the business sale as background source-of-wealth evidence; investigate detailed trust parties if later activity warrants it.",
+        "D": "Retain the corroborated business sale as part of overall source of wealth, but separately understand the trust, the customer's entitlement/relationship to it, relevant beneficial-control parties, and the source of the specific USD 4 million."
+      },
+      "why": "SoW and SoF can overlap but answer different questions. The prior sale remains valid evidence of overall wealth, while the trust introduces a separate ownership/entitlement and funds-provenance question that must be understood.",
+      "weaker": "A assumes overall wealth automatically explains every incoming source. B discards valid wealth history. C looks only at the immediate bank leg without understanding the trust and entitlement.",
+      "source": "ACAMS Study Guide v1.2 — SoW/SoF and trusts; Wolfsberg SoW/SoF; competency 4.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 38,
+      "competency": "4.1",
+      "answer": "C",
+      "stem": "A senior foreign official declares wealth from a government salary, paid speaking engagements after earlier public service, and dividends from a family holding company. Salary scales are public, the speaking engagements are listed on conference websites, and the holding company is privately owned with limited public accounts. Which evidence package best addresses source-of-wealth risk proportionately?",
+      "options": {
+        "A": "Use public salary data plus a reasonableness estimate for speaking and dividend income unless the declared net worth materially exceeds the plausible range.",
+        "B": "A signed wealth declaration from the customer covering salary, speaking fees and dividends, supported by no further documents unless transaction monitoring identifies unusual activity.",
+        "C": "Corroborate material wealth components proportionately—salary, speaking income and family-company ownership/dividends—then compare the supported accumulation with the declared net worth.",
+        "D": "Reconstruct the material income years using tax and financial records across the public-service period before accepting the wealth explanation."
+      },
+      "why": "PEP EDD should reasonably establish whether wealth is legitimate. Different wealth components require different evidence, and the work should be proportionate to materiality and risk rather than relying on one source or demanding limitless reconstruction.",
+      "weaker": "A omits two declared wealth sources. B relies mainly on self-declaration. D is disproportionate and not a risk-based standard.",
+      "source": "ACAMS Study Guide v1.2 — PEP source of wealth; Wolfsberg SoW principles; competency 4.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 39,
+      "competency": "4.1",
+      "answer": "A",
+      "stem": "The owner of a cash-intensive restaurant group provides audited company financials showing healthy profits, but personally declares a net worth far above what the documented dividends and salary could reasonably explain. She says the difference reflects “cash savings accumulated over many years” and cannot provide records. The business itself appears legitimate. What is the strongest EDD response?",
+      "options": {
+        "A": "Treat the unexplained personal wealth as a material gap, seek proportionate independent evidence of how it accumulated, and escalate if the customer's explanation cannot reasonably be corroborated.",
+        "B": "Accept the explanation because audited business profits show a legitimate cash-generating source even if distributions to the owner are not documented.",
+        "C": "Use the audited restaurant-group financials and documented owner distributions as the principal proxy for personal wealth, then investigate the unexplained excess if it funds the relationship.",
+        "D": "Treat the unexplained personal wealth as outside appetite and recommend exit if the customer cannot reconstruct the cash savings, rather than relying on corporate profits as a proxy for personal accumulation."
+      },
+      "why": "Audited company profitability does not automatically establish that the owner personally accumulated the claimed wealth. The gap between known income and declared net worth is precisely what source-of-wealth EDD should resolve.",
+      "weaker": "B confuses company earnings with personal wealth. C ignores the beneficial owner's wealth-risk issue. D is blanket de-risking rather than evidence-based escalation.",
+      "source": "ACAMS Study Guide v1.2 — cash-intensive businesses and source-of-wealth corroboration; competency 4.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 40,
+      "competency": "4.2",
+      "answer": "B",
+      "stem": "A customer is owned by two holding companies. One is controlled by a discretionary trust whose corporate trustee is in Jurisdiction A; the trust protector lives in Jurisdiction B and can replace the trustee. The other holding company is 60% owned by a nominee acting under an undisclosed principal agreement. The company service provider offers to certify that “all UBO checks are complete” but refuses to name the principal. What is the strongest KYC response?",
+      "options": {
+        "A": "Rely on the company service provider's certification for the undisclosed principal and identify the visible trustee/protector roles directly, adding enhanced monitoring to address remaining opacity.",
+        "B": "Map the trust and nominee chains to the required natural persons/control powers and treat the gatekeeper's certification as supporting evidence, not a substitute for required transparency.",
+        "C": "Identify the trust protector and nominee shareholder as the UBOs because they are the visible persons with the strongest formal roles.",
+        "D": "Treat the customer as having no determinable UBO and rely on enhanced transaction monitoring instead of resolving ownership."
+      },
+      "why": "Both sides of the structure contain mechanisms that can obscure ownership/control. The analyst must look through legal title and intermediaries to the natural persons and control relationships required by the framework. A gatekeeper can be a source, not a substitute for the institution's obligations.",
+      "weaker": "A creates false comfort from the gatekeeper. C assumes visible role equals ultimate ownership/control. D leaves a core KYC requirement unresolved and tries to compensate downstream.",
+      "source": "ACAMS Study Guide v1.2 — complex ownership, trusts, nominees and gatekeepers; FATF R.24/R.25; competency 4.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 41,
+      "competency": "4.2",
+      "answer": "B",
+      "stem": "A corporate service provider forms and administers a customer company. It states that local confidentiality law prevents it from disclosing the ultimate principal without a formal request, but it can provide a notarized statement that it has verified the principal and found no sanctions or PEP concerns. The customer's expected activity is high value and cross-border. Which response is most defensible?",
+      "options": {
+        "A": "Accept the notarized statement and document reliance on the service provider because local law restricts disclosure; require the provider to notify the institution if the principal's screening status changes.",
+        "B": "Determine the institution's own UBO obligations, use legal/escalation channels to address the confidentiality restriction, and do not finalize acceptance if required information remains unavailable.",
+        "C": "Open the account with restrictions while seeking the principal's identity later, because the notarized statement reduces the immediate risk.",
+        "D": "Treat the corporate service provider as the UBO for onboarding purposes because it controls the corporate administration."
+      },
+      "why": "A legal/confidentiality constraint may change how information is obtained, but it does not automatically eliminate the institution's own KYC requirements. The conflict should be escalated and resolved through appropriate legal/policy channels before required information is waived.",
+      "weaker": "A outsources the requirement. C postpones a core gap. D confuses administrative agency with beneficial ownership.",
+      "source": "ACAMS Study Guide v1.2 — gatekeepers and beneficial ownership; competency 4.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 42,
+      "competency": "4.2",
+      "answer": "C",
+      "stem": "A regulated asset manager is the direct customer and operates accounts for several investment vehicles. It provides entity-level ownership information but states that investor identities are confidential. The institution learns that one vehicle is itself owned through layered companies in several jurisdictions. What is the most appropriate KYC focus before relying on the manager's structure?",
+      "options": {
+        "A": "Rely on the asset manager's regulatory status for investor-level due diligence if no specific sanctions or adverse-media indicators arise, and focus bank KYC on the manager itself.",
+        "B": "Require investor look-through for the layered vehicle because the structure is cross-jurisdictional, while using risk-based sampling for the manager's simpler vehicles.",
+        "C": "Identify required underlying owners/controllers, assess the manager's CDD obligations and control quality, and determine whether reliance on the intermediary is permitted by rules and policy.",
+        "D": "Treat the layered vehicle as high risk and increase transaction monitoring without seeking further ownership information."
+      },
+      "why": "Intermediary relationships require analysis of both the underlying ownership/control question and the quality/legal basis of the intermediary's due diligence. The answer is neither blind reliance nor unlimited look-through without regard to the applicable framework.",
+      "weaker": "A over-relies on regulation. B may be disproportionate and ignores legal/policy reliance frameworks. D tries to mitigate an unresolved ownership question only through monitoring.",
+      "source": "ACAMS Study Guide v1.2 — intermediaries, beneficial owner of funds and due-diligence reliance; competency 4.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 43,
+      "competency": "4.3",
+      "answer": "D",
+      "stem": "A high-risk customer's identity and ownership are transparent. Reliable court records show a fraud conviction eight years ago, which the customer disclosed. Since then, the customer has operated a legitimate business, source of wealth is corroborated, and current account activity is consistent with the profile. Policy does not automatically prohibit customers with prior convictions but requires senior review. What is the most defensible recommendation?",
+      "options": {
+        "A": "Reject the customer because a confirmed fraud conviction is directly relevant to financial-crime risk and cannot be mitigated by later behavior.",
+        "B": "Accept the customer at standard risk because full disclosure and clean recent history show the prior conviction is no longer relevant.",
+        "C": "Retain the conviction in the background section but weight the current risk decision primarily toward the customer's recent conduct, transparent ownership and corroborated wealth because the offense is eight years old.",
+        "D": "Present the conviction together with recency, rehabilitation/current conduct, corroborated wealth, controls and policy requirements to the authorized senior decision-maker, with a reasoned retain/reject recommendation rather than an automatic outcome."
+      },
+      "why": "A prior fraud conviction is material, but the stated policy requires a risk-based senior decision rather than automatic prohibition. The analyst should present the whole evidence set and the residual risk transparently.",
+      "weaker": "A ignores the institution's stated decision framework. B understates a relevant integrity risk. C destroys material historical evidence rather than assessing it proportionately.",
+      "source": "ACAMS Study Guide v1.2 — risk-based escalation and relevant criminal records; competency 4.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 44,
+      "competency": "4.3",
+      "answer": "C",
+      "stem": "An institution's approved risk appetite excludes foreign embassies as customers because it lacks the specialist controls to support them. A new embassy applicant has transparent funding, no adverse media, and no suspicion of financial crime. Which handling is most appropriate?",
+      "options": {
+        "A": "Escalate to the formal risk-acceptance authority to determine whether a one-off exception is available; if the policy contains no exception route, decline without attempting to manufacture mitigants.",
+        "B": "Perform EDD to document why the embassy is transparent and non-suspicious, then use that evidence to lower the customer’s risk rating enough to fit the institution’s normal appetite.",
+        "C": "Apply the documented risk-appetite restriction and decline if no permitted exception exists, retaining a clear non-suspicion-based decision record and communicating the outcome under policy.",
+        "D": "Offer a restricted-service relationship with enhanced controls and senior approval while specialist capability is developed, because transparent funding and low suspicion reduce the immediate exposure."
+      },
+      "why": "Risk appetite is a governance boundary. If policy excludes the customer type and provides no permitted exception, transparency and absence of suspicion do not create authority to accept it. The decline should be documented as a risk/business decision, not mischaracterized as suspicion.",
+      "weaker": "A is appropriate only if a genuine exception path exists; it is not a substitute for applying a prohibition. B manipulates rating to fit appetite rather than respecting the boundary. D creates an unauthorized workaround.",
+      "source": "ACAMS Study Guide v1.2 — refusing/terminating customers and embassies; competency 4.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 45,
+      "competency": "4.3",
+      "answer": "D",
+      "stem": "An existing customer has a pattern of activity that the MLRO determines requires external suspicious-activity reporting. Senior management also decides to exit the relationship after considering legal and operational issues. The customer asks the relationship manager why the bank is closing the account and whether a suspicious report was filed. What is the strongest response framework?",
+      "options": {
+        "A": "Explain the specific suspicious transactions but do not reveal whether a report was filed; this gives the customer enough information to understand the closure.",
+        "B": "Tell the customer that the bank filed a report but cannot discuss its contents, because honesty reduces reputational risk.",
+        "C": "Tell the customer the relationship is ending after a compliance review without discussing specific transactions or whether any external report was made.",
+        "D": "Use the institution's approved generic exit communication, avoid disclosing suspicions or reporting decisions where prohibited, and keep the SAR/STR process within the designated confidential escalation framework."
+      },
+      "why": "The exit decision and suspicious-activity reporting are related but have different confidentiality constraints. Communication should not prejudice an investigation or tip off the customer. The institution should use approved generic wording and preserve confidentiality.",
+      "weaker": "A reveals the suspicious basis. B discloses the report. C still signals an AML investigation and may amount to tipping off depending on law/policy.",
+      "source": "ACAMS Study Guide v1.2 — duty to report, tipping off and exiting established customers; competency 4.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 46,
+      "competency": "4.4",
+      "answer": "B",
+      "stem": "A corporate customer was expected to receive domestic wholesale payments and make monthly supplier payments. For six months, total turnover stays within forecast, but funds increasingly arrive from unrelated individuals and are transferred within hours to new foreign beneficiaries. The relationship manager argues that total volume has not changed. What is the best account-activity assessment?",
+      "options": {
+        "A": "Because annual turnover remains within forecast, first update the expected counterparty and geography assumptions; investigate prior transactions only if the revised profile still leaves unexplained activity.",
+        "B": "Treat the source counterparties, destination geographies and rapid velocity as material deviations from the expected pattern, investigate their rationale, and refresh/escalate the profile even though aggregate turnover is unchanged.",
+        "C": "Treat the new counterparties and geography as an event-driven profile change, but regard velocity as primarily a transaction-monitoring concern unless the institution’s KYC policy explicitly includes it.",
+        "D": "Keep the volume assumption unchanged and raise channel/geographic risk only, because the customer’s overall turnover remains coherent with the original financial capacity assessment."
+      },
+      "why": "Expected activity is multidimensional: counterparties, geography, timing, purpose and transaction type matter as well as volume. Stable totals do not make a materially different flow pattern consistent.",
+      "weaker": "A risks normalizing unexplained past behavior by rewriting expectations first. C draws an artificial boundary around velocity when actual behavior is part of assessing whether the KYC profile remains valid. D focuses on aggregate size while missing who sends the money, where it goes and how quickly it moves.",
+      "source": "ACAMS Study Guide v1.2 — transaction monitoring and account-activity review; competency 4.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 47,
+      "competency": "4.4",
+      "answer": "B",
+      "stem": "A trading customer forecast USD 10 million of annual imports. Actual annual value is USD 9.8 million, but 30% of invoices are now paid by unrelated third parties, several shipping routes are unnecessarily complex, and payment instructions change frequently near settlement. Which review conclusion is most defensible?",
+      "options": {
+        "A": "The activity is broadly consistent because aggregate value remains within 2% of forecast and the customer remains in the same line of business.",
+        "B": "The activity requires investigation because payment parties, routing and instruction changes can be material trade-related red flags even when total value matches forecast.",
+        "C": "Prioritize the third-party payment analysis because it directly changes the funds flow; treat route and instruction changes as supporting context rather than separate escalation triggers.",
+        "D": "The customer should be re-profiled to include third-party payments and complex routes as normal activity if the pattern has persisted for most of the year."
+      },
+      "why": "Forecast consistency is not just a total-value test. The changed transaction structure can indicate trade-based financial-crime risk and must be understood before the profile is rewritten.",
+      "weaker": "A overweights aggregate volume. C fragments related red flags. D normalizes unexplained behavior instead of validating it.",
+      "source": "ACAMS Study Guide v1.2 — TBFC red flags and ongoing activity review; competency 4.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 48,
+      "competency": "4.4",
+      "answer": "C",
+      "stem": "During a periodic review, the analyst sees that a customer's prior transaction-monitoring alerts were repeatedly closed as “known customer” without analysis. The current KYC profile still describes activity from four years ago. Recent transactions include new countries and higher-value transfers. What is the most appropriate review response?",
+      "options": {
+        "A": "Rely on the prior alert closures unless internal audit has formally challenged them, because KYC should not second-guess completed monitoring decisions.",
+        "B": "Update the profile to reflect the recent countries and values, then close the review because the change has been documented.",
+        "C": "Reassess actual activity against a refreshed business profile, test whether earlier alert rationales were adequate, and escalate unresolved customer-risk or control concerns appropriately.",
+        "D": "Treat the weak alert notes as evidence of employee misconduct and refer the monitoring analysts for disciplinary action before continuing KYC review."
+      },
+      "why": "The stale profile and unexplained alert closures create both customer-risk and control-quality questions. The analyst should rebuild the expected-activity baseline, review the material activity, and escalate unresolved concerns rather than simply carrying forward old conclusions.",
+      "weaker": "A assumes prior closure equals quality. B documents the new behavior without understanding it. D jumps to a personnel conclusion outside the evidence and does not resolve the customer risk.",
+      "source": "ACAMS Study Guide v1.2 — periodic review, TM linkage and control effectiveness; competency 4.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 49,
+      "competency": "5.1",
+      "answer": "D",
+      "stem": "A global bank centralizes KYC review in another country. A local analyst wants to send passport copies, tax records and adverse-media notes to the offshore review team through the bank's approved case-management platform. Local privacy law restricts cross-border transfers unless specified safeguards are met. The review team has a legitimate business need. What is the best response?",
+      "options": {
+        "A": "Send the records through the approved internal platform because the offshore team has a legitimate KYC need and the bank already controls access, encryption and retention inside that environment.",
+        "B": "Hold all cross-border transfer until local privacy or legal confirms that the offshore review arrangement is permitted, then send the complete case file so both teams work from identical evidence.",
+        "C": "Transfer only identity and risk-summary data now under data minimization, and send tax records or adverse-media source documents later only if the offshore reviewer specifically requests them.",
+        "D": "Confirm the required legal and policy safeguards first; if transfer is permitted, minimize the data, restrict access and use the authorized platform."
+      },
+      "why": "Need-to-know and secure systems are necessary but may not be sufficient where law imposes cross-border-transfer conditions. The correct response combines legal basis/safeguards, minimum necessary data, and authorized handling.",
+      "weaker": "A treats platform security and business need as substitutes for transfer-law safeguards. B correctly pauses for permission but assumes the full file should then be sent rather than minimizing data. C applies minimization but assumes transfer authority before confirming the legal/policy basis. D addresses permission, minimization, access and approved transmission in the right order.",
+      "source": "ACAMS Study Guide v1.2 — data security/privacy and cross-border restrictions; competency 5.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 50,
+      "competency": "5.1",
+      "answer": "B",
+      "stem": "An internal quality review finds that a customer's date of birth was entered incorrectly three years ago. The wrong date was used in repeated sanctions and PEP screening and in risk scoring. The correct date is supported by reliable documents. Which remediation is most defensible?",
+      "options": {
+        "A": "Correct the master data through the controlled process and rerun current screening/risk scoring; preserve prior decisions because they were made from the data available to analysts at the time.",
+        "B": "Correct the data through the controlled process, preserve the audit history, assess which prior screening and risk decisions could have been affected, and rerun or remediate those controls where the error could have changed an outcome.",
+        "C": "Correct the date and reconstruct screening and risk decisions across the full three-year period before closing the remediation, even if an initial impact assessment suggests some reviews could not have been affected.",
+        "D": "Correct the master profile prospectively and perform a targeted quality review of recent screening alerts; older decisions can remain unless a regulator or audit function requests reconstruction."
+      },
+      "why": "Data quality is a control dependency. The remediation must address both the source record and downstream decisions that relied on it, while preserving traceability of the correction.",
+      "weaker": "A fixes the present but does not assess whether the known data error impaired prior controls. C may be disproportionate by reopening everything without first assessing material impact. D arbitrarily limits remediation to recent cases rather than the decisions that could actually have been affected.",
+      "source": "ACAMS Study Guide v1.2 — data quality, screening and audit trail; competency 5.1/5.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 51,
+      "competency": "5.1",
+      "answer": "C",
+      "stem": "A KYC investigator is reviewing a complex customer and wants to copy documents to a local desktop folder and a personal encrypted USB drive so they can work while traveling. Both devices use strong encryption, and the investigator plans to delete the copies after the review. Which response best reflects KYC data-governance principles?",
+      "options": {
+        "A": "Allow the copies because encryption and planned deletion reduce the confidentiality risk to an acceptable level.",
+        "B": "Allow the desktop folder but not the USB drive, because local fixed storage is less likely to be lost.",
+        "C": "Use storage and transfer methods authorized by data-classification, access, retention and security policy; encryption does not itself authorize a prohibited copy.",
+        "D": "Permit the USB drive if a second employee records the files copied, because dual control addresses the main risk."
+      },
+      "why": "Security controls such as encryption do not replace authorization, retention rules, or institutional data-handling policy. KYC data should remain in approved systems and be shared/stored only by permitted methods.",
+      "weaker": "A and B assume technical security equals authorization. D misuses dual control as a substitute for data-governance requirements.",
+      "source": "ACAMS Study Guide v1.2 — data security/privacy and approved storage; competency 5.1",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 52,
+      "competency": "5.2",
+      "answer": "A",
+      "stem": "An analyst must summarize a high-risk customer's adverse-media issue. The evidence is: a reputable newspaper alleges bribery based on unnamed sources; the customer denies the allegation; no charge or regulator action is found; the customer's government-contracting business and PEP association are verified. Which profile wording is strongest?",
+      "options": {
+        "A": "“Reputable media alleges bribery from unnamed sources. No official action found as of review date; customer denies it. Verified government-contracting and PEP links increase relevance; allegation remains uncorroborated and is escalated for EDD.”",
+        "B": "“Customer is likely involved in bribery because the reputable-media allegation, PEP association and government-contracting activity reinforce one another; the denial and absence of charges do not outweigh the combined indicators.”",
+        "C": "“No substantiated bribery was identified because there is no official action; record the article as unverified background and maintain existing controls unless new evidence emerges.”",
+        "D": "“Customer denies the article and no official action was found. Note the PEP and government-contracting links, retain the current high-risk rating, and revisit at periodic review.”"
+      },
+      "why": "The strongest note separates allegation, verified facts, absence of official corroboration, customer response, analyst relevance assessment, and action. It is reproducible without converting an allegation into a fact or dismissing it.",
+      "weaker": "B is conclusory. C treats absence of enforcement as proof of absence. D is too vague to show what was reviewed or why it matters.",
+      "source": "ACAMS Study Guide v1.2 — Present/customer profile and adverse-media documentation; competency 5.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 53,
+      "competency": "5.2",
+      "answer": "A",
+      "stem": "A customer profile will be used by transaction monitoring, periodic-review analysts, sanctions teams, internal audit and senior approvers. Which information architecture makes the profile most useful across those audiences?",
+      "options": {
+        "A": "Record purpose/expected activity, verified identity/ownership, key risks/mitigants, material discrepancies, source references, decisions/approvals, and unresolved items affecting monitoring or review.",
+        "B": "Use a detailed chronology of the material research steps and evidence so downstream teams can reconstruct the case without relying heavily on analyst summary judgments.",
+        "C": "Keep the profile concise: final risk rating, purpose, products, expected activity, and unresolved items; link to the evidence file rather than restating ownership and adverse-media details.",
+        "D": "A business-friendly summary written primarily to justify the relationship, with technical compliance details kept out of the main profile to reduce complexity."
+      },
+      "why": "A customer profile is a control artifact, not just a narrative. It should let multiple downstream users understand who the customer is, what activity is expected, what risks were found, how they were resolved, and what remains open, with enough source traceability to verify the analysis.",
+      "weaker": "B is exhaustive rather than decision-useful. C omits the evidence and assumptions downstream controls rely on. D biases the document toward advocacy instead of objective risk communication.",
+      "source": "ACAMS Study Guide v1.2 — who reads the customer profile / Present step; competency 5.2",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 54,
+      "competency": "5.2",
+      "answer": "C",
+      "stem": "A negative-news alert comes from an article in a language none of the local analysts speak. A machine translation says the customer “was convicted,” but a bilingual employee informally reads the original and says it actually states the customer “testified in a conviction case” involving someone else. How should the profile record the issue?",
+      "options": {
+        "A": "Record “negative media false positive” based on the bilingual employee's interpretation and remove the translated alert from the file.",
+        "B": "Record the machine-translated allegation because automated translation provides a consistent evidentiary standard across customers.",
+        "C": "Record the initial translation issue, the identity/context ambiguity, the reliable language validation used to resolve it, and the rationale for the final classification.",
+        "D": "Document the final validated classification and supporting source; omit the machine-translation error from the profile if it did not affect the final decision."
+      },
+      "why": "Good profile writing preserves how the issue arose and how it was resolved. The note should distinguish the automated interpretation from the validated context, show the source of resolution, and support future reviewers if the alert reappears.",
+      "weaker": "A may rely on an informal opinion without adequate documentation. B treats an error-prone tool as authoritative. D loses useful audit context and may cause repeated rework.",
+      "source": "ACAMS Study Guide v1.2 — source validation/translation false positives and profile documentation; competency 5.2/5.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 55,
+      "competency": "5.3",
+      "answer": "D",
+      "stem": "A relationship manager collects all KYC documents for a high-value customer, verifies the copies against originals, performs the risk assessment, approves the customer and loads the expected-activity parameters into the system. A later review finds the file factually accurate. What is the strongest control concern?",
+      "options": {
+        "A": "Treat the concentration of duties as a process observation rather than a material control issue because the later quality review confirmed that the KYC facts, screening and risk outcome were accurate.",
+        "B": "The relationship manager should not have loaded the expected-activity parameters, but the collection, verification and approval steps can remain with one person.",
+        "C": "Treat the commercial conflict as the main issue; a separate senior approval can compensate for limited operational segregation if the file itself is complete and accurate.",
+        "D": "The process lacks appropriate segregation/dual control: independent checking and approval reduce error and collusion risk even when the resulting file later proves accurate."
+      },
+      "why": "Dual controls are preventive. Their value is not disproved by an accurate file. Combining collection, verification, risk decision and system setup in one person removes independent challenge and increases collusion/error risk.",
+      "weaker": "A evaluates the control only by outcome. B addresses one system step but not the broader concentration of duties. C mistakes seniority for independence.",
+      "source": "ACAMS Study Guide v1.2 — dual controls/four-eyes and segregation of duties; competency 5.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 56,
+      "competency": "5.3",
+      "answer": "B",
+      "stem": "An analyst overrides a model-generated medium-risk rating to high because reliable external evidence shows opaque control arrangements the model does not capture. The override is approved. Which record best supports a defensible audit trail?",
+      "options": {
+        "A": "The final high-risk rating and approver name, because the underlying model score is superseded once the override is authorized.",
+        "B": "The original model output, the material evidence that prompted the override, the analyst's rationale, date, approver/authority, resulting control requirements, and any related model-governance issue.",
+        "C": "Retain the complete KYC evidence set and a note that analyst judgment was applied; detailed override logic can remain in the approver workflow if the final rating and approval are visible in the customer record.",
+        "D": "The analyst's email to the approver, provided the email thread shows agreement and the customer was ultimately categorized as high risk."
+      },
+      "why": "A good audit trail allows a future reviewer to reconstruct both the system result and why it was overridden, who had authority, and what consequences followed. It should also preserve the control/methodology issue if relevant.",
+      "weaker": "A erases the original decision path. C is voluminous but not explanatory. D may be supporting evidence but is not a complete controlled record of the decision.",
+      "source": "ACAMS Study Guide v1.2 — risk overrides, Present step and auditability; competency 5.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 57,
+      "competency": "5.3",
+      "answer": "D",
+      "stem": "A sanctions alert was cleared two years ago as a false positive. A new list update adds an alias that makes the alert appear stronger, and the case is reopened. Which prior documentation would most help the new reviewer reassess the case efficiently and defensibly?",
+      "options": {
+        "A": "The prior false-positive conclusion, the analyst/reviewer names, and the customer identity documents used at the time, because the new reviewer can repeat the comparison against the updated list.",
+        "B": "The identifiers compared and the final clearance rationale, plus the customer’s then-current identity document; detailed list-version and alias history can be reconstructed from the screening platform if needed.",
+        "C": "The prior screening score, threshold, customer identity fields and clearance date, because those show that the alert met the institution’s technical standard for false-positive closure at the time.",
+        "D": "The identifiers compared, source/list version or date, material matching and conflicting facts, clearance rationale, reviewer/approval details, and any known alias or transliteration considerations."
+      },
+      "why": "A reusable screening decision requires more than a conclusion. It should show what evidence supported the clearance so the new reviewer can determine whether the new alias changes the prior reasoning.",
+      "weaker": "A supports reconstruction but loses the actual reasoning and source context. B is stronger but assumes historical system data will remain available and omits potentially material alias/list context. C records model mechanics without enough human match analysis. D gives the next reviewer the evidence trail needed to understand what changed.",
+      "source": "ACAMS Study Guide v1.2 — documenting false positives/name screening; competency 5.3/2.3",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 58,
+      "competency": "5.4",
+      "answer": "B",
+      "stem": "A low-risk customer is not due for periodic review for another 18 months. The customer is appointed to a prominent public function and becomes a PEP under the institution's policy. No unusual transactions are observed. What is the best KYC response?",
+      "options": {
+        "A": "Wait until the scheduled review because the absence of unusual transactions means the risk change has not affected account behavior.",
+        "B": "Trigger an event-driven review now to update PEP status, risk rating, source-of-wealth/funds and approval/monitoring requirements as applicable.",
+        "C": "Update the PEP flag and screening/monitoring controls immediately, while deferring the broader profile refresh to the next scheduled review if wealth and activity remain unchanged.",
+        "D": "Increase transaction-monitoring sensitivity but leave the KYC profile unchanged until the customer conducts a transaction related to the public role."
+      },
+      "why": "A material change in public function changes customer risk independent of transaction behavior. Event-driven KYC should update the facts and controls that depend on that risk before the next scheduled review.",
+      "weaker": "A delays a known change. C separates a key risk flag from the profile and controls it should affect. D changes downstream monitoring without updating the underlying KYC basis.",
+      "source": "ACAMS Study Guide v1.2 — ongoing due diligence/PEP status change; competency 5.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 59,
+      "competency": "5.4",
+      "answer": "D",
+      "stem": "A corporate customer moves its headquarters to a higher-risk jurisdiction and restructures ownership. No new natural person crosses the institution's formal 25% ownership threshold, but voting agreements now give two minority investors joint power to appoint most directors. The customer is not due for review for a year. Which action is strongest?",
+      "options": {
+        "A": "No event-driven review is needed because no new shareholder crossed the formal ownership percentage threshold.",
+        "B": "Update geographic risk and monitoring now; reassess control/UBO at the next scheduled review because no natural person's ownership percentage crossed the policy threshold.",
+        "C": "Wait for the scheduled review but increase screening frequency in the meantime because both changes are already documented.",
+        "D": "Trigger a targeted review of geography, ownership/control, UBO determination and risk rating because the jurisdiction and control structure materially changed even without a threshold-crossing shareholder."
+      },
+      "why": "Event-driven review is driven by material change, not only a numerical ownership threshold. New geography and control rights can alter risk and beneficial-control analysis immediately.",
+      "weaker": "A and B ignore control through other means. C delays reassessment of known material changes and treats screening frequency as a substitute for KYC refresh.",
+      "source": "ACAMS Study Guide v1.2 — ongoing review, ownership/control and geographic change; competency 5.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    },
+    {
+      "n": 60,
+      "competency": "5.4",
+      "answer": "A",
+      "stem": "An existing medium-risk customer is the subject of an internal suspicious-activity escalation after a significant behavior change. The MLRO files a report where required. The customer's ownership and identification data are unchanged. Which KYC maintenance action is most defensible?",
+      "options": {
+        "A": "Treat the behavior change and reporting event as triggers to reassess the customer profile, expected activity, risk rating and EDD/monitoring needs, while preserving reporting confidentiality.",
+        "B": "Leave KYC unchanged because suspicious-activity reporting belongs to the MLRO and does not alter customer identity or ownership.",
+        "C": "Move the customer to high risk with enhanced monitoring now because the internal suspicion threshold was met and a report was filed, then reconsider the rating at the next scheduled review.",
+        "D": "Wait until the next periodic review so the KYC team does not risk learning confidential details about the suspicious-activity process."
+      },
+      "why": "KYC and monitoring are linked. A material behavior change—and in many programs a suspicious-activity filing—can trigger refresh even when static identity fields are unchanged. The profile should be reassessed without disclosing or mishandling confidential reporting information.",
+      "weaker": "B artificially separates controls that depend on the same behavior. C treats a report as proof and fixes the rating without reassessment. D preserves a stale profile despite a known trigger.",
+      "source": "ACAMS Study Guide v1.2 — transaction monitoring, SAR-triggered refresh and ongoing due diligence; competency 5.4",
+      "form": "HARD-1",
+      "difficulty": "advanced"
+    }
+  ]
+}
