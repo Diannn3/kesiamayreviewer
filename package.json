@@ -1,0 +1,14 @@
+{
+  "name": "kesiamayreviewer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kesia May Reviewer — CKYCA Study Lab production package",
+  "type": "module",
+  "scripts": {
+    "audit": "node scripts/audit.mjs",
+    "test": "node scripts/smoke-test.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.50.1"
+  }
+}
